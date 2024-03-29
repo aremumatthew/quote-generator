@@ -31,7 +31,7 @@ body{
 .quote-box{
  background-color: white;
  width: 400px;
- height: 260px;
+ height: 240px;
  border-radius: 10px;
 }
 .container p{
@@ -70,7 +70,7 @@ button:hover{
 .quote-box{
   background-color: white;
   width: 100%;
-  height: 240px;
+  height: 260px;
   padding-inline: 14px;
   border-radius: 0px;
  }
