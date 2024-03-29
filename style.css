@@ -74,4 +74,13 @@ button:hover{
   padding-inline: 20px;
   border-radius: 0px;
  }
+ .container p{
+  color: rgb(97, 94, 94);
+  text-align: center;
+  padding: 30px 20px 0px 20px;
+  font-size: 15px;
+  line-height: 23px;
+  font-weight: 900;
+  font-style: italic;
+ }
 }
